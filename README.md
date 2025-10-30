@@ -1,2 +1,2 @@
 # Chuletas
-Scripts en python
+Chuletas
