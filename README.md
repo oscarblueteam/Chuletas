@@ -1,4 +1,4 @@
-🛡️ Apuntes y Chuletas de Ciberseguridad
+🛡️ Apuntes y Chuletas de Ciberseguridad | Oscar Blue Team  🛡️
 
 Repositorio dedicado a recopilar notas, chuletas, guías rápidas y recursos de estudio sobre ciberseguridad.
 El objetivo es crear un espacio organizado que permita consultar conceptos de forma ágil, mantener apuntes centralizados y facilitar el aprendizaje continuo.
