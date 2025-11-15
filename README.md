@@ -10,6 +10,9 @@ Fundamentos de ciberseguridad, Redes y protocolos, Análisis forense, Seguridad 
 
 🗂️ Estructura del repositorio 15/11/2025 
 
+/NMAP
+
+
 🎯 Objetivo
 
 Este repositorio pretende servir como:
