@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scripts/Python3/Conexión a Switch Cisco.md",
+                "file": "Scripts - PYTHON 3/Conexión a Switch Cisco.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,12 +182,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6d2dd6c88d0ff3cf",
+  "active": "a97b7e5adfb7f948",
   "lastOpenFiles": [
     "README.md",
-    "Scripts/Python3/Conexión a Switch Cisco.md",
+    "Scripts - PYTHON 3/Conexión a Switch Cisco.md",
     "Scripts/Python3",
-    "Scripts",
+    "Scripts - PYTHON 3",
     "NMAP/Comandos NMAP.md",
     "NMAP/Escenarios NMAP.md",
     "Sin título.base"
