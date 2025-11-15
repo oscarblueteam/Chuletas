@@ -8,7 +8,7 @@ Este repositorio puede incluir (y puedes adaptarlo según lo que vayas subiendo)
 
 Fundamentos de ciberseguridad, Redes y protocolos, Análisis forense, Seguridad en sistemas operativos (Linux/Windows),Pentesting / Ethical Hacking, Criptografía, Threat Intelligence, Buenas prácticas de seguridad, Comandos útiles y cheatsheets, Herramientas de seguridad, Apuntes de cursos o certificaciones y mucho más!!
 
-🗂️ Estructura del repositorio 15/11/2025 Cheletas
+🗂️ Estructura del repositorio 15/11/2025 
 
 🎯 Objetivo
 
